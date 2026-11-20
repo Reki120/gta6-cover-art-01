@@ -1,0 +1,26 @@
+[
+  {
+    "name": "1-cover.jpg",
+    "query": "?shot=cover&layout=hero&grade=sunset&size=1920x1080&title=SUNSET+HEAT&subtitle=Last+light%2C+fast+lives&caption=THE+COAST+NEVER+PLAYS+IT+SAFE",
+    "w": 1280,
+    "h": 720
+  },
+  {
+    "name": "2-editor.jpg",
+    "query": "?shot=editor&title=NEON+COAST&subtitle=Make+your+escape&caption=YOUR+PHOTOS.+YOUR+CITY.+YOUR+RULES.",
+    "w": 1280,
+    "h": 800
+  },
+  {
+    "name": "3-cover.jpg",
+    "query": "?shot=cover&layout=classic&grade=neon&size=1080x1350&title=AFTER+DARK&subtitle=Electric+alibis&caption=SOME+NIGHTS+LEAVE+A+MARK",
+    "w": 1024,
+    "h": 1280
+  },
+  {
+    "name": "4-cover.jpg",
+    "query": "?shot=cover&layout=triple&grade=gold&size=1080x1080&title=GOLD+RUSH&subtitle=Paradise+has+a+price&caption=CHASE+THE+LIGHT.+OWN+THE+NIGHT.",
+    "w": 1080,
+    "h": 1080
+  }
+]
